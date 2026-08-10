@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Yazi
+Comment=Fast terminal file manager
+Exec=kitty -e yazi %F
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=System;FileManager;
+MimeType=inode/directory;
